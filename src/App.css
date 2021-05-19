@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+  font-weight:500;
+  background-image: url("Bc2.jpg");
+  background-size: 100%;
+  background-position-y: 15%;
+  height: 3100px;
+  width: 2000px;
+   }
+.Header{
+  background-color:pink;
+  margin-right: -40cm;
+  position: relative;
+  margin-top: 0px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position-y: 15%;
+  width: 100%;
+  
+}
+.Gun{
+  margin-left: -30cm;
+}
+.a{
+  margin-left: -30cm;
+}
+.Fall{
+  margin-left: -30cm;
+}
+.b{
+  margin-left: -30cm;
+}
+.c{
+  margin-right: -30cm ;
+  margin-top: -21cm;
+}
+.Edge{
+  margin-right: -30cm ;
+  margin-top: 0cm;
+}
+.d{
+  margin-right: -30cm ;
+  margin-top: 0cm;
+}
+.e{
+  margin-right: -30cm;
+  margin-top: 0cm;
+}
+.War{
+  margin-right: -30cm;
+  margin-top: 0cm;
+}
+.v{
+  margin-right: 0cm ;
+  margin-top: -20cm;
+}
+.o{
+  margin-right: 0cm;
+  margin-top: 0cm;
+}
+.liv{
+  text-align: left;
+  margin-left: 2cm;
+}
+.Mimi{
+  margin-left: 30cm;
+  margin-top: -30cm;
+}
+.Sec{
+  margin-left: 25cm;
+  margin-top: -40cm;
+}
+/*visited link*/
+a.op:visited{
+  color:green;
+}
+/*unvisited link*/
+.op:hover{
+color:red;
+}
